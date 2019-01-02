@@ -2,6 +2,7 @@
 
 Do not commit outputs. It may containt AWS Secrets
 
+[Explanation](https://medium.com/@tanzwud.work/protect-aws-account-with-group-and-assume-role-when-mfa-is-not-enough-913c9948532d)
 
 ## Commands used in workshop
 
